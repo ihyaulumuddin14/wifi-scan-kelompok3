@@ -50,7 +50,7 @@ def main():
             tid = "L%s-%03d" % (a.lantai, i)
             w.writerow([tid, a.lantai, int(round(x)), int(round(y)), "", ""])
             ax.plot(x, y, "ro", ms=6)
-            ax.annotate(tid[3:], (x, y), fontsize=8, color="r", xytext=(4, 4), textcoords="offset points")
+            ax.annotate(tid, (x, y), fontsize=8, color="r", xytext=(4, 4), textcoords="offset points")
     ax.set_title("Lantai %s - %d titik ukur (skala %.1f px/m)" % (a.lantai, len(pts), scale))
     ax.axis("off")
     fig.savefig(os.path.splitext(a.out)[0] + ".png", dpi=200, bbox_inches="tight")
