@@ -1,0 +1,27 @@
+
+Pinging filkom.ub.ac.id.cdn.cloudflare.net [2606:4700:10::ac42:a8b6] with 32 bytes of data:
+Reply from 2606:4700:10::ac42:a8b6: time=30ms 
+Reply from 2606:4700:10::ac42:a8b6: time=32ms 
+Reply from 2606:4700:10::ac42:a8b6: time=31ms 
+Reply from 2606:4700:10::ac42:a8b6: time=44ms 
+Reply from 2606:4700:10::ac42:a8b6: time=31ms 
+Reply from 2606:4700:10::ac42:a8b6: time=43ms 
+Reply from 2606:4700:10::ac42:a8b6: time=30ms 
+Reply from 2606:4700:10::ac42:a8b6: time=40ms 
+Reply from 2606:4700:10::ac42:a8b6: time=55ms 
+Reply from 2606:4700:10::ac42:a8b6: time=43ms 
+Reply from 2606:4700:10::ac42:a8b6: time=33ms 
+Reply from 2606:4700:10::ac42:a8b6: time=64ms 
+Reply from 2606:4700:10::ac42:a8b6: time=35ms 
+Reply from 2606:4700:10::ac42:a8b6: time=49ms 
+Reply from 2606:4700:10::ac42:a8b6: time=44ms 
+Reply from 2606:4700:10::ac42:a8b6: time=37ms 
+Reply from 2606:4700:10::ac42:a8b6: time=48ms 
+Reply from 2606:4700:10::ac42:a8b6: time=34ms 
+Reply from 2606:4700:10::ac42:a8b6: time=38ms 
+Reply from 2606:4700:10::ac42:a8b6: time=88ms 
+
+Ping statistics for 2606:4700:10::ac42:a8b6:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 88ms, Average = 42ms

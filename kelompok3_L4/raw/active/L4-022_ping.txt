@@ -1,0 +1,27 @@
+
+Pinging filkom.ub.ac.id.cdn.cloudflare.net [2606:4700:10::6814:2bc2] with 32 bytes of data:
+Reply from 2606:4700:10::6814:2bc2: time=239ms 
+Reply from 2606:4700:10::6814:2bc2: time=496ms 
+Reply from 2606:4700:10::6814:2bc2: time=144ms 
+Reply from 2606:4700:10::6814:2bc2: time=326ms 
+Reply from 2606:4700:10::6814:2bc2: time=93ms 
+Reply from 2606:4700:10::6814:2bc2: time=325ms 
+Reply from 2606:4700:10::6814:2bc2: time=133ms 
+Reply from 2606:4700:10::6814:2bc2: time=120ms 
+Reply from 2606:4700:10::6814:2bc2: time=63ms 
+Reply from 2606:4700:10::6814:2bc2: time=283ms 
+Reply from 2606:4700:10::6814:2bc2: time=367ms 
+Reply from 2606:4700:10::6814:2bc2: time=121ms 
+Reply from 2606:4700:10::6814:2bc2: time=206ms 
+Reply from 2606:4700:10::6814:2bc2: time=62ms 
+Reply from 2606:4700:10::6814:2bc2: time=101ms 
+Reply from 2606:4700:10::6814:2bc2: time=52ms 
+Reply from 2606:4700:10::6814:2bc2: time=242ms 
+Reply from 2606:4700:10::6814:2bc2: time=421ms 
+Reply from 2606:4700:10::6814:2bc2: time=88ms 
+Reply from 2606:4700:10::6814:2bc2: time=57ms 
+
+Ping statistics for 2606:4700:10::6814:2bc2:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 52ms, Maximum = 496ms, Average = 196ms
