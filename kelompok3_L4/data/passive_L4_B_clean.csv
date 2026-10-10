@@ -1,0 +1,951 @@
+timestamp,lantai,titik_id,x_px,y_px,slot_waktu,device,scan_ke,ssid,bssid,freq_mhz,channel,band,width_mhz,rssi_dbm,noise_dbm,sta_count,ch_util_pct,security,pmf,catatan
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-43,,2,66.3,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-40,,15,66.3,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-65,,2,52.9,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-65,,7,52.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-67,,,,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-72,,2,28.2,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,FY,3e:aa:3e:ef:99:57,2437,6,2.4,20,-70,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-57,,40,52.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-65,,5,34.1,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-82,,,,WPA2/WPA3-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-53,,7,29.4,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-68,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-65,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-57,,24,54.5,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-40,,42,66.3,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,40,-44,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-80,,0,14.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-73,,16,36.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-81,,0,14.9,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-77,,15,46.3,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,eduroam,94:b3:4f:bc:cb:80,5805,161,5,20,-82,,1,32.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,DIRECT-UCNOVIAN-ARIANSYAHJCW,22:bd:1d:c8:40:92,5745,149,5,20,-80,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-38,,2,64.3,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-36,,15,64.3,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-57,,2,43.9,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-57,,7,43.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-67,,,,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-72,,2,28.2,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,FY,3e:aa:3e:ef:99:57,2437,6,2.4,20,-73,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-57,,40,43.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-65,,5,34.1,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-82,,,,WPA2/WPA3-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-62,,1,54.9,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-59,,16,54.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-76,,1,22.7,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-53,,7,29.4,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-89,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-60,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-76,,18,22.7,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-59,,26,54.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-36,,41,64.3,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,40,-42,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-80,,1,15.3,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-73,,16,36.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-80,,0,15.3,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-77,,15,46.3,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,eduroam,94:b3:4f:bc:cb:80,5805,161,5,20,-82,,1,45.1,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,DIRECT-UCNOVIAN-ARIANSYAHJCW,22:bd:1d:c8:40:92,5745,149,5,20,-80,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-46,,2,72.5,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-44,,15,72.5,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-57,,2,43.9,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-57,,7,43.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-67,,,,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-72,,2,28.2,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,FY,3e:aa:3e:ef:99:57,2437,6,2.4,20,-72,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-55,,40,58.8,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-82,,,,WPA2/WPA3-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-65,,1,49.8,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-62,,16,49.8,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-76,,1,22.7,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-75,,8,32.5,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-89,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-67,,,,WPA2-Personal,no,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-76,,18,22.7,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-59,,26,54.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-44,,41,72.5,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-82,,1,16.9,WPA2/3-Enterprise,capable,ruangan kosong
+05/10/2026 10:17,4,L4-001,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-80,,0,15.3,WPA2-Personal,capable,ruangan kosong
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-72,,21,19.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-67,,17,13.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-51,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-60,,16,47.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-63,,1,47.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-78,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-82,,7,42.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-67,,2,13.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-68,,9,13.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-38,,12,67.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-41,,3,67.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-38,,40,67.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-71,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-63,,27,42,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,FEB-UB,80:03:84:99:07:38,2462,11,2.4,20,-75,,3,60.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-59,,9,31,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-69,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-69,,3,20,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,Recover.Me-184350,c0:c7:0a:58:43:5f,2412,1,2.4,20,-74,,0,47.5,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:af:48:e1,5240,48,5,20,-82,,20,42.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-80,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-72,,21,19.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-66,,15,35.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-59,,6,66.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-69,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-70,,0,17.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-69,,3,17.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-52,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-60,,16,47.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-63,,1,47.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-78,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,DIRECT-UCNOVIAN-ARIANSYAHJCW,22:bd:1d:c8:40:92,5745,149,5,20,-76,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-84,,8,65.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-72,,2,35.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-72,,9,35.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-38,,12,62.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-41,,3,62.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-38,,41,62.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-71,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-59,,26,66.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,FEB-UB,80:03:84:99:07:38,2462,11,2.4,20,-75,,3,60.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-59,,9,31,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-69,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-68,,3,17.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,Recover.Me-184350,c0:c7:0a:58:43:5f,2412,1,2.4,20,-74,,0,47.5,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:af:48:e1,5240,48,5,20,-82,,20,42.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-60,,3,66.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-80,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-72,,21,19.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-74,,16,21.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-58,,6,51.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-65,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-70,,0,17.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-72,,3,16.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-52,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-60,,16,52.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-64,,1,52.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-78,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-79,,1,26.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,DIRECT-UCNOVIAN-ARIANSYAHJCW,22:bd:1d:c8:40:92,5745,149,5,20,-76,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-83,,8,53.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-72,,2,24.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-71,,9,24.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-38,,12,62.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-41,,3,62.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-37,,40,87.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-68,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-58,,27,51.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,FEB-UB,80:03:84:99:07:38,2462,11,2.4,20,-75,,3,60.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-59,,9,31,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-69,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-78,,3,26.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-71,,3,20,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,Recover.Me-184350,c0:c7:0a:58:43:5f,2412,1,2.4,20,-74,,0,47.5,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:af:48:e1,5240,48,5,20,-82,,20,42.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,17,53.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-57,,3,51.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:28,4,L4-004,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-80,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-58,,16,60.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-76,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-72,,9,19.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-60,,6,42,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-54,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-73,,4,19.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-70,,0,15.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-69,,3,15.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-52,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-55,,24,54.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-55,,16,54.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,eduroam,ec:bd:1d:af:f6:7d,5745,149,5,20,-86,,1,37.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-58,,1,54.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-78,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-79,,1,26.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,DIRECT-UCNOVIAN-ARIANSYAHJCW,22:bd:1d:c8:40:92,5745,149,5,20,-76,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-83,,8,53.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-64,,2,45.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-64,,9,45.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-52,,14,66.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-54,,3,66.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-52,,41,66.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-68,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-60,,29,42,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-78,,3,26.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-69,,2,15.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:af:48:e1,5240,48,5,20,-82,,20,42.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,17,53.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-60,,3,42,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-76,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-59,,16,14.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-79,,1,36.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-78,,1,36.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,RDH,32:b0:b6:1a:35:55,5765,153,5,20,-73,,1,0,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-80,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-68,,9,20,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-55,,6,61.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-72,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-69,,4,20,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-64,,0,12.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-64,,3,12.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-52,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-49,,24,48.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-50,,15,48.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,ec:bd:1d:af:f6:7d,5745,149,5,20,-86,,1,37.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-53,,1,48.6,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-73,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-72,,3,47.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,DIRECT-UCNOVIAN-ARIANSYAHJCW,22:bd:1d:c8:40:92,5745,149,5,20,-76,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-83,,8,53.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-63,,2,14.9,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-62,,9,14.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-51,,14,69,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-54,,3,69,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-51,,39,69,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-67,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-55,,30,61.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-71,,4,47.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-64,,2,12.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,17,53.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-55,,3,61.6,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-78,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-59,,15,48.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-79,,1,36.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-82,,1,62,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,RDH,32:b0:b6:1a:35:55,5765,153,5,20,-73,,1,0,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-80,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-68,,9,20,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-59,,5,52.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-72,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-69,,4,20,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-64,,0,12.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-69,,2,27.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-54,,25,50.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-54,,15,50.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,ec:bd:1d:af:f6:7d,5745,149,5,20,-86,,1,37.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-57,,1,50.6,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-78,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-72,,3,47.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-86,,8,40.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-64,,2,48.6,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-64,,9,48.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-51,,14,69,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-54,,3,69,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-51,,39,69,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-67,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-59,,30,52.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-71,,4,47.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-64,,2,12.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,17,53.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-59,,3,52.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:30,4,L4-005,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-76,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-57,,17,84.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-65,,14,69.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-75,,2,38.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-72,,9,38.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-79,,1,36.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-82,,1,62,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,RDH,32:b0:b6:1a:35:55,5765,153,5,20,-73,,1,0,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-75,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-68,,9,20,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-53,,5,56.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-72,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-69,,4,20,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-64,,0,12.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-69,,2,27.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-50,,27,58.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-50,,15,58.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,ec:bd:1d:af:f6:7d,5745,149,5,20,-86,,1,37.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-53,,1,58.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-69,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-66,,2,69.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-86,,8,40.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-57,,2,84.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-57,,8,84.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-51,,14,69,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-54,,3,69,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-51,,39,69,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-69,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-53,,32,56.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-65,,6,69.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-64,,2,12.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-54,,3,56.9,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-74,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-55,,17,44.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-63,,14,32.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-75,,2,38.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-72,,9,38.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-79,,2,60.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-78,,1,60.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,RDH,32:b0:b6:1a:35:55,5765,153,5,20,-73,,1,0,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-81,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-73,,8,33.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-53,,5,57.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-72,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-71,,4,33.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-67,,0,24.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-66,,2,24.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-57,,27,53.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-57,,15,53.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,ec:bd:1d:af:f6:7d,5745,149,5,20,-86,,1,37.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-60,,1,53.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-69,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-64,,2,32.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-86,,8,40.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-57,,2,84.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-54,,8,82.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-42,,13,28.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-45,,2,28.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-42,,40,28.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-69,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-53,,32,57.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-63,,6,32.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-66,,2,19.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-53,,3,57.6,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-74,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-54,,17,20.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-63,,14,32.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-75,,2,38.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-72,,9,38.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-81,,2,74.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-80,,1,74.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,RDH,32:b0:b6:1a:35:55,5765,153,5,20,-73,,1,0,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-76,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-73,,8,33.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-61,,5,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-72,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-71,,4,33.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-67,,0,15.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-66,,2,15.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-62,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-55,,28,58.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-55,,15,58.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,ec:bd:1d:af:f6:7d,5745,149,5,20,-86,,1,37.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-58,,1,58.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-70,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-68,,2,42,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-86,,8,40.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-57,,2,20.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-56,,8,20.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-42,,13,29,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-45,,2,29,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-42,,40,29,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-68,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-61,,32,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-67,,7,42,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-66,,2,19.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-80,,17,25.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-61,,3,40.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:31,4,L4-002,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-74,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor, no ap"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-47,,17,44.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-63,,14,32.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-66,,0,31.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-75,,2,38.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-72,,9,38.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-78,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-81,,2,74.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-80,,1,74.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,RDH,32:b0:b6:1a:35:55,5765,153,5,20,-73,,1,0,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-61,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-66,,7,31.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-61,,5,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-72,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-65,,4,31.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-67,,0,15.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-66,,2,15.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-52,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-41,,27,55.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-41,,15,55.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-44,,1,55.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-70,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-68,,2,42,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-86,,8,40.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-51,,2,40.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-51,,8,40.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-43,,13,35.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-45,,2,35.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-43,,44,35.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-68,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-61,,32,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-67,,7,42,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-66,,2,19.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-80,,17,25.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-61,,3,40.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-67,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-46,,19,12.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-67,,16,32.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-66,,0,31.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-75,,2,38.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-72,,9,38.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-78,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-81,,2,74.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-80,,1,74.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,RDH,32:b0:b6:1a:35:55,5765,153,5,20,-73,,1,0,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-65,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-66,,7,31.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-61,,5,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,iwak tempe,32:57:06:f0:e2:25,5765,153,5,80,-72,,,,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-68,,4,28.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-67,,0,15.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-66,,2,15.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-53,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-41,,27,61.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-41,,15,61.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-44,,1,61.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-70,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-68,,2,32.9,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-86,,8,40.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-50,,3,52.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-50,,8,52.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-44,,13,70.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-45,,2,35.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-43,,44,35.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-71,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-61,,32,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-66,,9,32.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-66,,2,19.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-80,,17,25.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-61,,3,40.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-72,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-50,,19,72.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-67,,16,32.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-67,,0,37.6,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-75,,2,38.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-72,,9,38.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-70,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,c0:c7:0a:58:34:10,2412,1,2.4,20,-78,,0,40,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-80,,2,38,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-80,,4,38,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-65,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-66,,7,37.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-61,,5,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-66,,4,37.6,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-67,,0,15.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-66,,2,15.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-53,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-44,,27,51.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-43,,15,51.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-46,,1,51.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-70,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-74,,2,53.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-86,,8,40.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-51,,2,34.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-50,,9,34.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-44,,13,74.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-46,,2,74.9,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-44,,43,74.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-71,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-61,,32,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-73,,10,53.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-66,,2,19.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-80,,17,25.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-61,,3,40.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:32,4,L4-006,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-68,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-48,,19,37.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-67,,16,32.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-67,,0,37.6,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-73,,3,68.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-70,,9,68.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-70,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,c0:c7:0a:58:34:10,2412,1,2.4,20,-78,,0,40,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-80,,2,38,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-80,,4,38,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-62,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-69,,7,25.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-61,,5,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-69,,4,25.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-67,,0,15.7,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-69,,5,22.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-58,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-47,,26,51.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-47,,16,51.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-50,,1,51.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-70,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-72,,2,27.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-50,,2,47.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-50,,9,47.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-53,,14,77.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-56,,2,77.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-53,,47,77.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-71,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-61,,32,40.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-71,,11,27.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-69,,3,22.7,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-80,,17,25.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-61,,3,40.4,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-72,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-48,,19,85.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,iPhone (2),5a:b2:de:c6:2a:1b,2437,6,2.4,20,-78,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-68,,21,32.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-66,,0,25.9,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-73,,3,68.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-70,,9,68.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-70,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,c0:c7:0a:58:34:10,2412,1,2.4,20,-78,,0,40,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-80,,2,38,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-82,,4,80,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-79,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-65,,7,25.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-59,,5,45.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-66,,4,25.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-68,,0,18,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-67,,5,18,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-52,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-47,,27,58.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-47,,16,58.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-50,,1,58.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-72,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-70,,2,32.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-54,,2,38.8,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-54,,9,38.8,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-52,,14,34.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-55,,2,34.9,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-52,,47,34.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-72,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-59,,29,45.5,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-68,,11,32.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-67,,3,18,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-81,,17,43.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-59,,3,45.5,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-68,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-48,,19,25.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,iPhone (2),5a:b2:de:c6:2a:1b,2437,6,2.4,20,-78,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-63,,20,32.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-66,,0,25.9,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-73,,3,68.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-70,,9,68.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-70,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,c0:c7:0a:58:34:10,2412,1,2.4,20,-78,,0,40,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-80,,2,38,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-82,,4,80,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-63,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-65,,7,25.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-65,,5,86.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-66,,4,25.9,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-68,,0,18,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-73,,5,20.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-52,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-47,,27,55.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-47,,16,55.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-50,,1,55.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-69,,,,WPA2/WPA3-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-64,,2,32.2,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,28:b3:71:af:48:e0,5240,48,5,20,-83,,8,33.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-48,,2,25.1,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-48,,8,25.1,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-49,,15,75.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-52,,2,75.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-49,,46,75.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-70,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-65,,29,86.3,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-63,,12,32.2,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-73,,3,20.4,WPA2/3-Enterprise,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,17,33.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-65,,3,86.3,WPA2-Personal,capable,"ruangan jam pelajaran, koridor"
+05/10/2026 10:33,4,L4-003,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-68,,,,WPA2-Personal,no,"ruangan jam pelajaran, koridor"
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-45,,19,47.5,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-64,,3,38.8,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-64,,28,38.8,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-47,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-50,,12,47.5,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-51,,1,47.5,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-73,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-68,,3,34.5,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-68,,0,34.5,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-71,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-67,,5,34.5,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-67,,1,43.9,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-71,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-65,,3,43.9,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-47,,14,59.2,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-48,,27,59.2,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,Mau?,ee:b4:1c:77:d2:21,2412,1,2.4,20,-82,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-50,,2,59.2,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-65,,39,59.2,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5,20,-74,,59,45.5,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-78,,5,45.5,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-74,,12,45.5,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-65,,7,43.9,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-66,,3,59.2,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:43,4,L4-009,,,T1,laptopB,1,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-64,,10,59.2,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-45,,19,20,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-76,,,,WPA2/WPA3-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-57,,4,58,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-54,,52,58,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-65,,3,42.4,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-54,,19,58,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-73,,,,WPA2/WPA3-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-65,,6,42.4,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-66,,28,42.4,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-47,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-47,,12,20,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-47,,1,20,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-72,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-70,,3,23.9,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-68,,0,34.5,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-63,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-67,,5,34.5,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-67,,1,43.9,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-71,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-66,,3,21.6,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-43,,14,69.8,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-42,,30,69.8,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,Mau?,ee:b4:1c:77:d2:21,2412,1,2.4,20,-82,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-45,,2,69.8,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-65,,39,59.2,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5,20,-77,,59,58.4,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-78,,5,45.5,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-77,,12,58.4,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-67,,7,21.6,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-78,,2,45.9,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-77,,10,45.9,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-43,,19,16.1,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-87,,9,29.4,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-72,,,,WPA2/WPA3-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-55,,4,36.1,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-53,,52,36.1,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-78,,,,WPA2/WPA3-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-63,,3,37.3,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-53,,19,36.1,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-73,,,,WPA2/WPA3-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-62,,6,37.3,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-62,,28,37.3,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-47,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-47,,12,16.1,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-47,,1,16.1,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-70,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-68,,3,21.6,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-70,,0,21.6,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-69,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-68,,5,21.6,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-64,,1,36.9,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-72,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-63,,3,36.9,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-42,,15,58.8,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-42,,30,58.8,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,Mau?,ee:b4:1c:77:d2:21,2412,1,2.4,20,-82,,,,WPA2-Personal,no,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-45,,2,58.8,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-65,,39,59.2,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5,20,-77,,59,58.4,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-78,,5,45.5,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-83,,12,54.9,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-63,,7,36.9,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-73,,2,81.2,WPA2-Personal,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-009,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-72,,11,81.2,WPA2/3-Enterprise,capable,koridor 4.9 & 4.10
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-62,,19,15.7,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-87,,9,29.4,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-72,,,,WPA2/WPA3-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-45,,4,74.9,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-43,,54,74.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-78,,,,WPA2/WPA3-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-58,,3,41.6,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-43,,20,74.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-73,,,,WPA2/WPA3-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-58,,6,41.6,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-58,,28,41.6,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-70,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-62,,13,15.7,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-62,,3,15.7,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-77,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-68,,3,21.6,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-70,,0,21.6,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-78,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-66,,5,48.2,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-64,,1,36.9,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-68,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-63,,3,36.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-54,,15,64.7,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-54,,29,64.7,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-58,,2,64.7,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-82,,42,31.8,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5,20,-77,,59,58.4,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-78,,5,45.5,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-83,,12,54.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-63,,7,36.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-73,,2,81.2,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,1,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-83,,10,31.8,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-66,,20,58,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-87,,9,29.4,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,11,21.6,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-79,,,,WPA2/WPA3-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-46,,4,57.6,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-44,,55,57.6,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-66,,,,WPA2/WPA3-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-60,,3,36.9,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-44,,20,57.6,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-73,,,,WPA2/WPA3-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-60,,6,36.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-60,,28,36.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-70,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-62,,13,15.7,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-62,,3,15.7,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-77,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-70,,3,19.6,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-70,,0,21.6,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-78,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-69,,5,19.6,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-64,,1,36.9,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-68,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-63,,3,36.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-54,,15,64.7,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-54,,29,64.7,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,Mau?,ee:b4:1c:77:d2:21,2412,1,2.4,20,-73,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-58,,2,64.7,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-82,,42,31.8,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5,20,-77,,59,58.4,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-78,,5,45.5,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-83,,12,54.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-63,,7,36.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-73,,2,81.2,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:44,4,L4-008,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-83,,10,31.8,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-64,,22,32.5,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-87,,9,29.4,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,11,21.6,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-79,,,,WPA2/WPA3-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-41,,4,49,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-39,,55,49,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-66,,,,WPA2/WPA3-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-60,,3,36.9,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-39,,20,49,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-73,,,,WPA2/WPA3-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-56,,6,50.6,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-60,,28,36.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-44,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-66,,14,12.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-67,,3,12.9,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-78,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-70,,3,19.6,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-64,,0,23.5,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-76,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-63,,5,23.5,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-64,,1,36.9,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-69,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-63,,3,36.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-56,,14,76.1,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-56,,28,76.1,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,Mau?,ee:b4:1c:77:d2:21,2412,1,2.4,20,-73,,,,WPA2-Personal,no,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-58,,2,76.1,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-82,,42,31.8,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5,20,-77,,59,58.4,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-78,,5,45.5,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-83,,12,54.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-63,,7,36.9,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-73,,2,81.2,WPA2-Personal,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-008,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-83,,10,31.8,WPA2/3-Enterprise,capable,koridor 4.11 & 4.12
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-73,,21,33.7,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,94:b3:4f:bc:cb:80,5805,161,5,20,-83,,1,71,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-87,,9,29.4,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,11,21.6,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-79,,,,WPA2/WPA3-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-45,,4,84.3,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-43,,54,84.3,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-66,,,,WPA2/WPA3-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-54,,3,36.1,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-43,,19,84.3,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-73,,,,WPA2/WPA3-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-54,,6,36.1,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-54,,30,36.1,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-44,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-66,,14,12.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-67,,3,12.9,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-78,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-61,,3,27.5,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-61,,0,27.5,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-76,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-63,,6,24.3,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-64,,1,36.9,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-67,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-63,,3,36.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-61,,14,58,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-56,,28,76.1,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,Mau?,ee:b4:1c:77:d2:21,2412,1,2.4,20,-73,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-64,,2,58,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-82,,42,31.8,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:6f:51:01,2462,11,2.4,20,-72,,5,69.8,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5,20,-77,,59,58.4,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-78,,5,45.5,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-83,,12,54.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-63,,7,36.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-73,,2,81.2,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,1,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-84,,13,38.8,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-74,,21,27.8,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,28:b3:71:6f:51:00,2462,11,2.4,20,-76,,1,65.5,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,94:b3:4f:bc:cb:80,5805,161,5,20,-83,,1,71,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-87,,9,29.4,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,11,21.6,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-79,,,,WPA2/WPA3-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-45,,4,84.3,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-43,,54,84.3,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-66,,,,WPA2/WPA3-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-54,,3,36.1,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-43,,19,84.3,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-73,,,,WPA2/WPA3-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-54,,6,36.1,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-54,,30,36.1,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-42,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-74,,14,27.8,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-74,,4,27.8,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-78,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-66,,3,21.2,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-67,,0,21.2,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-76,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-57,,7,21.2,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-64,,1,36.9,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-65,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-63,,3,36.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-61,,14,58,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-56,,28,76.1,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,Mau?,ee:b4:1c:77:d2:21,2412,1,2.4,20,-73,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-64,,2,58,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-82,,42,31.8,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:6f:51:01,2462,11,2.4,20,-76,,5,65.5,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5,20,-77,,59,58.4,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-78,,5,45.5,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-80,,13,83.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-63,,7,36.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-81,,2,32.2,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-81,,13,32.2,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-75,,21,14.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,28:b3:71:6f:51:00,2462,11,2.4,20,-76,,1,65.5,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,94:b3:4f:bc:cb:80,5805,161,5,20,-83,,1,71,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-87,,9,29.4,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,11,21.6,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-79,,,,WPA2/WPA3-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-48,,3,79.2,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-46,,54,79.2,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-66,,,,WPA2/WPA3-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-56,,5,36.5,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-46,,19,79.2,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-73,,,,WPA2/WPA3-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-55,,7,36.5,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-55,,29,36.5,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-40,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-75,,16,14.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-76,,4,14.9,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-78,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-68,,3,18.8,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-68,,1,18.8,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-76,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-65,,7,17.6,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:58:3a:c2,2437,6,2.4,20,-64,,1,36.9,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-70,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,c0:c7:0a:58:3a:c0,2437,6,2.4,20,-63,,3,36.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-59,,14,63.1,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-56,,28,76.1,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,Mau?,ee:b4:1c:77:d2:21,2412,1,2.4,20,-73,,,,WPA2-Personal,no,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-62,,2,63.1,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-82,,42,31.8,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:6f:51:01,2462,11,2.4,20,-76,,5,65.5,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:52,5180,36,5,20,-77,,59,58.4,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-78,,5,45.5,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-79,,13,68.6,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-63,,7,36.9,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-81,,2,32.2,WPA2-Personal,capable,koridor 4.13 & 4.14
+05/10/2026 10:45,4,L4-007,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-81,,13,32.2,WPA2/3-Enterprise,capable,koridor 4.13 & 4.14
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-69,,24,76.1,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,ore wa money d luffy,fe:ec:6d:2f:d8:2a,5745,149,5,20,-81,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,سمي,ae:41:02:e7:59:bf,2437,6,2.4,20,-68,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,28:b3:71:6f:51:00,2462,11,2.4,20,-76,,1,65.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,94:b3:4f:bc:cb:80,5805,161,5,20,-83,,1,71,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-72,,7,29,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:af:48:e2,5240,48,5,20,-83,,11,21.6,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,iPhone,5e:8f:e6:32:7a:bf,5745,149,5,80,-79,,,,WPA2/WPA3-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-48,,3,79.2,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-46,,54,79.2,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-74,,,,WPA2/WPA3-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-73,,5,29,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-56,,5,36.5,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-46,,19,79.2,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-68,,,,WPA2/WPA3-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-55,,7,36.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-74,,30,40.8,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-40,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-69,,16,14.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-76,,4,14.9,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-78,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-68,,3,18.8,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-68,,1,18.8,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-76,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-70,,7,37.3,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-70,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-61,,15,56.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-54,,27,72.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,Mau?,ee:b4:1c:77:d2:21,2412,1,2.4,20,-73,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-64,,2,56.5,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-66,,40,53.3,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,WiFi-UB.x,28:b3:71:6f:51:01,2462,11,2.4,20,-76,,5,65.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-73,,4,67.8,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-71,,13,67.8,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-73,,7,32.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-68,,3,53.3,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,1,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-66,,13,53.3,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-64,,24,69,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:d0,5765,153,5,20,-83,,7,58.4,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,ore wa money d luffy,fe:ec:6d:2f:d8:2a,5745,149,5,20,-76,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,سمي,ae:41:02:e7:59:bf,2437,6,2.4,20,-68,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,Alexander,42:d3:e9:5d:f8:2e,2437,6,2.4,20,-78,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,28:b3:71:6f:51:00,2462,11,2.4,20,-76,,1,65.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,94:b3:4f:bc:cb:80,5805,161,5,20,-83,,1,71,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-77,,7,16.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-48,,3,79.2,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-46,,54,79.2,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-74,,,,WPA2/WPA3-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-78,,5,16.5,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-56,,5,36.5,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-46,,19,79.2,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-72,,,,WPA2/WPA3-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-78,,7,43.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-78,,28,43.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-54,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-72,,15,75.7,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-72,,4,75.7,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-78,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-68,,3,18.8,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-68,,1,18.8,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-81,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-70,,7,37.3,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-70,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-61,,15,56.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-54,,27,72.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-64,,2,56.5,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-66,,40,53.3,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,WiFi-UB.x,28:b3:71:6f:51:01,2462,11,2.4,20,-76,,5,65.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-73,,4,67.8,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-71,,13,67.8,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-73,,7,32.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-68,,3,53.3,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:46,4,L4-010,,,T1,laptopB,2,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-66,,13,53.3,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:ab:d3:91,5240,48,5,20,-67,,24,68.2,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:d0,5765,153,5,20,-83,,6,36.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,ore wa money d luffy,fe:ec:6d:2f:d8:2a,5745,149,5,20,-76,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,سمي,ae:41:02:e7:59:bf,2437,6,2.4,20,-68,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,Alexander,42:d3:e9:5d:f8:2e,2437,6,2.4,20,-75,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,28:b3:71:6f:51:00,2462,11,2.4,20,-76,,1,65.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,94:b3:4f:bc:cb:80,5805,161,5,20,-83,,1,71,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,c0:c7:0a:98:38:b0,5805,161,5,20,-71,,7,14.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:3e:02,5785,157,5,20,-69,,4,61.6,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:3e:01,5785,157,5,20,-67,,56,61.6,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,puthay,a6:e3:75:6f:c6:12,5745,149,5,80,-74,,,,WPA2/WPA3-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:38:b2,5805,161,5,20,-72,,5,14.5,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:8b:1e:a2,5765,153,5,20,-56,,5,36.5,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,c8:a6:08:8b:3e:00,5785,157,5,20,-67,,19,61.6,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,"3x - 16 = 20, x = ?",62:20:00:37:ba:e1,2462,11,2.4,20,-73,,,,WPA2/WPA3-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,c8:a6:08:8b:1e:a0,5765,153,5,20,-78,,7,43.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:8b:1e:a1,5765,153,5,20,-78,,28,43.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,DIRECT-NKTOBTOBmsL8,4e:50:dd:3d:4b:8a,5220,44,5,20,-54,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,28:b3:71:ab:d3:90,5240,48,5,20,-72,,15,75.7,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,FILKOM EVENT,28:b3:71:ab:d3:92,5240,48,5,20,-72,,4,75.7,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,sok iye lu,4a:6f:94:c3:55:fb,5765,153,5,80,-77,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,c8:a6:08:4b:1e:a0,2462,11,2.4,20,-68,,3,18.8,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,FILKOM EVENT,c8:a6:08:4b:1e:a2,2462,11,2.4,20,-68,,1,18.8,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,nanadd,5e:b3:7b:3a:81:fa,5240,48,5,80,-81,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,WiFi-UB.x,c8:a6:08:4b:1e:a1,2462,11,2.4,20,-70,,7,37.3,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,subari.net,2e:f2:6c:78:49:ca,2462,11,2.4,20,-70,,,,WPA2-Personal,no,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:c0,5200,40,5,20,-60,,15,65.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:3a:c1,5200,40,5,20,-60,,28,65.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:c2,5200,40,5,20,-63,,2,65.5,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:98:34:11,5220,44,5,20,-66,,40,53.3,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,WiFi-UB.x,28:b3:71:6f:51:01,2462,11,2.4,20,-76,,5,65.5,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:3a:51,5180,36,5,20,-73,,4,67.8,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,c0:c7:0a:98:3a:50,5180,36,5,20,-71,,13,67.8,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,WiFi-UB.x,c0:c7:0a:58:3a:c1,2437,6,2.4,20,-73,,7,32.9,WPA2/3-Enterprise,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,FILKOM EVENT,c0:c7:0a:98:34:12,5220,44,5,20,-68,,3,53.3,WPA2-Personal,capable,koridor gudang & panel
+05/10/2026 10:47,4,L4-010,,,T1,laptopB,3,eduroam,c0:c7:0a:98:34:10,5220,44,5,20,-66,,13,53.3,WPA2/3-Enterprise,capable,koridor gudang & panel
